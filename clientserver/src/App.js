@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Login from './components/Login'
-import Reply from './components/reply'
+import Login from './components/Login/Login'
+import Reply from './components/reply/reply'
 import './App.css';
 import { Row , Col } from 'antd';
 
